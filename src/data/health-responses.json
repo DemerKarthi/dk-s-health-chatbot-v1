@@ -1,0 +1,72 @@
+{
+  "anxiety": {
+    "responses": [
+      "Deep breathing exercises can help manage anxiety. Try inhaling for 4 seconds, holding for 4 seconds, and exhaling for 4 seconds.",
+      "Regular physical activity, even a short walk, can significantly reduce anxiety levels.",
+      "Mindfulness meditation has been shown to be effective in managing anxiety. Try focusing on your breath for 5 minutes each day.",
+      "Maintaining a consistent sleep schedule can help regulate anxiety levels.",
+      "Limiting caffeine and alcohol intake can help reduce anxiety symptoms."
+    ],
+    "resources": [
+      "Anxiety and Depression Association of America (ADAA)",
+      "National Institute of Mental Health (NIMH)",
+      "Mindfulness-Based Stress Reduction (MBSR) programs"
+    ]
+  },
+  "procrastination": {
+    "responses": [
+      "Break tasks into smaller, manageable chunks to make them less overwhelming.",
+      "Use the Pomodoro Technique: work for 25 minutes, then take a 5-minute break.",
+      "Set specific, achievable goals with clear deadlines.",
+      "Remove distractions from your environment when working on important tasks.",
+      "Practice self-compassion - it's okay to take breaks and start fresh."
+    ],
+    "resources": [
+      "Time management apps like Todoist or Trello",
+      "Productivity books and podcasts",
+      "Accountability partners or study groups"
+    ]
+  },
+  "plant-therapy": {
+    "responses": [
+      "Caring for plants can reduce stress and improve mood. Start with low-maintenance plants like succulents or snake plants.",
+      "Create a small indoor garden with herbs like basil, mint, or lavender.",
+      "Spend time in nature or create a green space in your home for relaxation.",
+      "Practice mindful gardening - focus on the sensory experience of caring for plants.",
+      "Research shows that being around plants can improve concentration and reduce stress."
+    ],
+    "resources": [
+      "Local gardening centers",
+      "Indoor plant care guides",
+      "Community gardens in your area"
+    ]
+  },
+  "sleep": {
+    "responses": [
+      "Maintain a consistent sleep schedule, even on weekends.",
+      "Create a relaxing bedtime routine, such as reading or taking a warm bath.",
+      "Keep your bedroom cool, dark, and quiet for optimal sleep.",
+      "Avoid screens (phones, computers, TV) at least an hour before bedtime.",
+      "Limit caffeine and heavy meals close to bedtime."
+    ],
+    "resources": [
+      "Sleep hygiene guides",
+      "White noise machines or apps",
+      "Sleep tracking apps"
+    ]
+  },
+  "wellness-trends": {
+    "responses": [
+      "Digital detox and mindful technology use are gaining popularity.",
+      "Plant-based diets and sustainable eating habits are on the rise.",
+      "Outdoor activities and nature therapy are becoming more popular.",
+      "Mental health apps and online therapy platforms are growing rapidly.",
+      "Workplace wellness programs are becoming more comprehensive."
+    ],
+    "resources": [
+      "Wellness industry reports",
+      "Health and wellness blogs",
+      "Professional wellness organizations"
+    ]
+  }
+} 
